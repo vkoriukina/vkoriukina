@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<a href="[{video-url}](https://cdn.dribbble.com/users/989299/screenshots/11226416/media/c4b6aa28ef097adc6561276241e6ce71.mp4)" ><img src="[{image-url}](https://cdn.dribbble.com/users/989299/screenshots/11226416/media/c4b6aa28ef097adc6561276241e6ce71.mp4)" alt="Alternate Text" /></a>
+<a href="https://cdn.dribbble.com/users/989299/screenshots/11226416/media/c4b6aa28ef097adc6561276241e6ce71.mp4" ><img src="https://cdn.dribbble.com/users/989299/screenshots/11226416/media/c4b6aa28ef097adc6561276241e6ce71.mp4"/></a>
 
 
 
