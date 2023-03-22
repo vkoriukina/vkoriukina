@@ -2,7 +2,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://drive.google.com/file/d/1sCoyDnoINTiRPARcvlKuJ38sp8GXUqXO" width="300"/>
+  <img src="https://www.dropbox.com/s/cc14fh83bzdcrwd/coding-girl.gif" width="300"/>
 </div>
 
 
