@@ -3,8 +3,9 @@
 <!--
 **vkoriukina/vkoriukina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+<div id="header" align="center">
+  <img src="https://cdn.dribbble.com/users/989299/screenshots/11226416/media/c4b6aa28ef097adc6561276241e6ce71.mp4" width="400"/>
+</div>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
