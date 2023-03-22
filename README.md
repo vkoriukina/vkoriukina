@@ -1,3 +1,4 @@
+</div>
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2MxMmNjNGUyMTZjOTU0Y2ZkMjA3NzQ0ZmIwYWFhOTYzYzMwNmE4MiZjdD1n/LGCSJ9ZMbMJRHCYbuB/giphy.gif" width="500"/>
 </div>
@@ -6,11 +7,18 @@
   <a href="https://www.linkedin.com/in/vkoriukina">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    </a>
-    <a href="https://www.linkedin.com/in/vkoriukina">
+  <a href="https://www.kaggle.com/vkoriukina">
     <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
-  </a>
+  </a> 
   <a href="https://www.leetcode.com/vkoriukina">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvkoriukina&logo=leetcode&logoColor=yellow" alt="Leetcode Badge"/> 
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Leetcode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvkoriukina&logo=leetcode&logoColor=yellow" alt="Leetcode Badge"/> 
 </div>
+
+<h3>
+  <!---<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzAzZDM3MTk0NWFlNzdkYzU4NTVkM2ZlYjQ3MjRmN2Q1MDE4YmM3MiZjdD1n/dNgK7Ws7y176U/giphy.gif" --->
+ <img src="https://media0.giphy.com/media/lGhBlBMIN2XsEteTN3/200w.webp?cid=ecf05e47w7dn190swhkfeeapl0mcjydx0objpihan28ay7zk&rid=200w.webp&ct=s" width="35"> About Me :
+</h3>
+I'm a Machine Learning Engineer  with passion for Computer Vision and NLP.
+ 
+<!--- https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black --->
 
