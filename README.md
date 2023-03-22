@@ -2,9 +2,12 @@
 
 <!--
 **vkoriukina/vkoriukina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<div id="header" align="center">
-  <img src="https://cdn.dribbble.com/users/989299/screenshots/11226416/media/c4b6aa28ef097adc6561276241e6ce71.mp4" width="400"/>
+<div>
+  <center>
+        <video controls width="500" autoplay muted>
+            <source src="https://cdn.dribbble.com/users/989299/screenshots/11226416/media/c4b6aa28ef097adc6561276241e6ce71.mp4" type="video/mp4">
+        </video>
+    </center>
 </div>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
