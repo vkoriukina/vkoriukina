@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**vkoriukina/vkoriukina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <div>
   <center>
         <video controls width="500" autoplay muted>
