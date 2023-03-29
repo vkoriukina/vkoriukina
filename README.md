@@ -30,11 +30,9 @@
 <p align="left"> <a href="https://learnopencv.com/opencv-dnn-with-gpu-support" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/35/35483.png" width="13"> How to use OpenCV DNN Module with NVIDIA GPUs on Linux </a></p>
 </div>
     
-
-
 <div id="stats" align="left">
 <h3>
- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGYzNmU4MmE2Njk1ODkxMTVhMGQ5ODg1MGE5ZDcwMDc4MmNmYWNjYiZjdD1z/csXXADlLOZ9EPy9LQK/giphy.gif" width="35"> My Stats:
+ <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmU4N2M1NGEwYzNkMDIxZjQ2NGNjYWE3YmMzNjVlY2MwZmM3NzBmMSZjdD1z/2uvBXCfCJUzLDLM2vA/giphy.gif" width="35"> My Stats:
 <p float="left">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=vkoriukina&theme=nightowl" width="60%" align="center" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkoriukina&theme=nightowl" width="35%" align="center" />
