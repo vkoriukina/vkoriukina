@@ -13,16 +13,28 @@
     <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Leetcode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvkoriukina&logo=leetcode&logoColor=yellow" alt="Leetcode Badge"/> 
     
 
-<div id="about" align="center">
+<div id="about" align="left">
 <h3>
- <img src="https://media0.giphy.com/media/lGhBlBMIN2XsEteTN3/200w.webp?cid=ecf05e47w7dn190swhkfeeapl0mcjydx0objpihan28ay7zk&rid=200w.webp&ct=s" width="35"> About Me :
+ <img src="https://media0.giphy.com/media/lGhBlBMIN2XsEteTN3/200w.webp?cid=ecf05e47w7dn190swhkfeeapl0mcjydx0objpihan28ay7zk&rid=200w.webp&ct=s" width="35"> About Me:
 </h3>
-I'm a Machine Learning Engineer with passion for Computer Vision and NLP.
+<p align="left"> I'm a Machine Learning Engineer with passion for Computer Vision and NLP.</p>
 </div>
-
-<div id="stats" align="center">
+    
+<div id="about" align="left">
 <h3>
- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGYzNmU4MmE2Njk1ODkxMTVhMGQ5ODg1MGE5ZDcwMDc4MmNmYWNjYiZjdD1z/csXXADlLOZ9EPy9LQK/giphy.gif" width="35"> My Stats :
+ <img src="https://media3.giphy.com/media/kLNTfS8SoJ1z6IT9uC/200w.webp?cid=ecf05e47lpxv1nqbh8o6xpq6obr5lzzrhuhla2lg5q9898ku&rid=200w.webp&ct=s" width="35"> My Blog Posts:
+</h3>
+
+<p align="left">&bull;<a href="https://www.learnopencv.com/using-facial-landmarks-for-overlaying-faces-with-masks" target="_blank"> Using Facial Landmarks for Overlaying Faces with Masks </a></p>
+<p align="left">&bull;<a href="https://learnopencv.com/getting-started-opencv-cuda-module" target="_blank"> Getting Started with OpenCV CUDA Module </a></p>
+<p align="left">&bull;<a href="https://learnopencv.com/opencv-dnn-with-gpu-support" target="_blank"> How to use OpenCV DNN Module with NVIDIA GPUs on Linux </a></p>
+</div>
+    
+
+
+<div id="stats" align="left">
+<h3>
+ <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGYzNmU4MmE2Njk1ODkxMTVhMGQ5ODg1MGE5ZDcwMDc4MmNmYWNjYiZjdD1z/csXXADlLOZ9EPy9LQK/giphy.gif" width="35"> My Stats:
 <p float="left">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=vkoriukina&theme=nightowl" width="60%" align="center" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkoriukina&theme=nightowl" width="35%" align="center" />
