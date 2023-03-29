@@ -22,7 +22,7 @@ I'm a Machine Learning Engineer with passion for Computer Vision and NLP.
 
 <div id="stats" align="center">
 <h3>
- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjFlZWU5Njg3NWUwYTY2ZjQzYmYwYmY3MjNmMjkwYTEwMGRlMjcxZCZjdD1z/YQGjPWHrQNKJOr9c1G/giphy.gif" width="35"> My Stats :
+ <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGYzNmU4MmE2Njk1ODkxMTVhMGQ5ODg1MGE5ZDcwMDc4MmNmYWNjYiZjdD1z/csXXADlLOZ9EPy9LQK/giphy.gif" width="35"> My Stats :
 <p float="left">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=vkoriukina&theme=nightowl" width="60%" align="center" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkoriukina&theme=nightowl" width="35%" align="center" />
