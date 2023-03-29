@@ -1,4 +1,3 @@
-</div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDgzYjgzNDRiNjc4NGE2ZTE4MmVkYTYzZjk1ZGJhNmVmYzU0MDMyMSZjdD1z/rP6Ogaeay6vYzf0TDt/giphy.gif" width="300"/>
 </div>
@@ -21,9 +20,9 @@
 I'm a Machine Learning Engineer with passion for Computer Vision and NLP.
 </div>
 
-<div id="github_stats" align="center">
-  <h3>:fire: My Stats :</h3>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=vkoriukina&theme=material-palenight&type=png"/>
-</div>  
+<div id="snake" align="center">
+  <img src="https://github.com/vkoriukina/vkoriukina/blob/output/github-contribution-grid-snake.svg"/>
+</div>
+
 
 
