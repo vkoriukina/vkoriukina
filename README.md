@@ -25,9 +25,9 @@
  <img src="https://media3.giphy.com/media/kLNTfS8SoJ1z6IT9uC/200w.webp?cid=ecf05e47lpxv1nqbh8o6xpq6obr5lzzrhuhla2lg5q9898ku&rid=200w.webp&ct=s" width="35"> My Blog Posts:
 </h3>
 
-<p align="left">&bull;<a href="https://www.learnopencv.com/using-facial-landmarks-for-overlaying-faces-with-masks" target="_blank"> Using Facial Landmarks for Overlaying Faces with Masks </a></p>
-<p align="left">&bull;<a href="https://learnopencv.com/getting-started-opencv-cuda-module" target="_blank"> Getting Started with OpenCV CUDA Module </a></p>
-<p align="left">&bull;<a href="https://learnopencv.com/opencv-dnn-with-gpu-support" target="_blank"> How to use OpenCV DNN Module with NVIDIA GPUs on Linux </a></p>
+<p align="left"> <a href="https://www.learnopencv.com/using-facial-landmarks-for-overlaying-faces-with-masks" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/35/35483.png" width="13"> Using Facial Landmarks for Overlaying Faces with Masks </a></p>
+<p align="left"> <a href="https://learnopencv.com/getting-started-opencv-cuda-module" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/35/35483.png" width="13"> Getting Started with OpenCV CUDA Module </a></p>
+<p align="left"> <a href="https://learnopencv.com/opencv-dnn-with-gpu-support" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/35/35483.png" width="13"> How to use OpenCV DNN Module with NVIDIA GPUs on Linux </a></p>
 </div>
     
 
