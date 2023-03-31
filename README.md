@@ -17,7 +17,7 @@
 <h3>
  <img src="https://media0.giphy.com/media/lGhBlBMIN2XsEteTN3/200w.webp?cid=ecf05e47w7dn190swhkfeeapl0mcjydx0objpihan28ay7zk&rid=200w.webp&ct=s" width="35"> About Me:
 </h3>
-<p align="left"> I'm a Machine Learning Engineer with passion for Computer Vision and NLP.</p>
+<p align="left"> Hey there, I'm a machine learning engineer who's always on the lookout for the newest and coolest things happening in the AI field. My passion lies in exploring the depths of computer vision, but recently I've been super curious about the possibilities of natural language processing and the fascinating world of generative adversarial networks. In my free time, I enjoy taking part in Kaggle competitions cause it's a fantastic way to keep my skills sharp and learn by solving challenging problems. I'm excited to see how AI will continue to evolve and be a part of that journey!</p>
 </div>
     
 <div id="about" align="left">
