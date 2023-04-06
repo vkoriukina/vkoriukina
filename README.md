@@ -24,10 +24,10 @@
 <h3>
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWViOWI0NGJkMTA3ZWZlZmNlMWJjZGRmYTg4NGZiODBmMzEwMWM0MSZjdD1z/88iJdoxlbnZCcmhLpR/giphy.gif" width="35"> Technical Skills:
 </h3>
+  
 <p align="left">
-
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="60" height="53"/>
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="53" height="60"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
 </p>
@@ -47,7 +47,6 @@
 <h3>
  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmU4N2M1NGEwYzNkMDIxZjQ2NGNjYWE3YmMzNjVlY2MwZmM3NzBmMSZjdD1z/2uvBXCfCJUzLDLM2vA/giphy.gif" width="35"> My Stats:
 <p float="left">
-   
   <img src="https://github-readme-stats.vercel.app/api?username=vkoriukina&theme=nightowl" width="55%" align="center" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkoriukina&theme=nightowl" width="35%" align="center" />
 </p>
