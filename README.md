@@ -45,23 +45,22 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
 <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
 </p>
-</div>
+
 
 
 <div id="stats" align="left">
 <h3>
  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmU4N2M1NGEwYzNkMDIxZjQ2NGNjYWE3YmMzNjVlY2MwZmM3NzBmMSZjdD1z/2uvBXCfCJUzLDLM2vA/giphy.gif" width="35"> My Stats:
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vkoriukina&theme=nightowl" width="55%" align="center" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkoriukina&theme=nightowl" width="35%" align="center" />
-</p>
 </h3>
-</div>    
-    
-    
+</div>
+   
+<div id="stats_imgs" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vkoriukina&theme=nightowl" width="58%" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkoriukina&theme=nightowl" width="36.5%" align="center" />
+</div>  
     
 <div id="snake" align="center">
-  <img src="https://github.com/vkoriukina/vkoriukina/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/vkoriukina/vkoriukina/blob/output/github-contribution-grid-snake.svg" width=100% />
 </div>
     
 
