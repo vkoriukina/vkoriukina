@@ -20,20 +20,8 @@
 <p align="left"> Hey there! I'm a Machine Learning engineer who's always on the lookout for the newest and coolest things happening in the AI field. My passion lies in exploring the depths of computer vision, but recently I've been super curious about the possibilities of natural language processing and the fascinating world of generative adversarial networks. In my free time, I enjoy taking part in Kaggle competitions cause it's a fantastic way to keep my skills sharp and learn by solving challenging problems. I'm excited to see how AI will continue to evolve and be a part of that journey!</p>
 </div>
     
-<div id="skills" align="left">
-<h3>
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWViOWI0NGJkMTA3ZWZlZmNlMWJjZGRmYTg4NGZiODBmMzEwMWM0MSZjdD1z/88iJdoxlbnZCcmhLpR/giphy.gif" width="35"> Technical Skills:
-</h3>
-  
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="53" height="60"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-<img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
-</p>
-</div>
     
-<div id="about" align="left">
+<div id="blog_posts" align="left">
 <h3>
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTAyNmJmN2RjNzNjZDBhMTMxOWZkNzI2OWNkMjIyOWJkNzBmOTEwNSZjdD1z/ntkzvo9fKbW07P9pez/giphy.gif" width="30"> My Blog Posts:
 </h3>
@@ -43,6 +31,23 @@
 <p align="left"> <a href="https://learnopencv.com/opencv-dnn-with-gpu-support" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/35/35483.png" width="13"> How to use OpenCV DNN Module with NVIDIA GPUs on Linux </a></p>
 </div>
     
+ 
+ <div id="skills" align="left">
+<h3>
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWViOWI0NGJkMTA3ZWZlZmNlMWJjZGRmYTg4NGZiODBmMzEwMWM0MSZjdD1z/88iJdoxlbnZCcmhLpR/giphy.gif" width="35"> My Technical Skills:
+</h3>
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="55" height="55"/>
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="53" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="55" height="55"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="55" height="55"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
+<img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
+</p>
+</div>
+
+
 <div id="stats" align="left">
 <h3>
  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmU4N2M1NGEwYzNkMDIxZjQ2NGNjYWE3YmMzNjVlY2MwZmM3NzBmMSZjdD1z/2uvBXCfCJUzLDLM2vA/giphy.gif" width="35"> My Stats:
