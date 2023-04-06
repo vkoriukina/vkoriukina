@@ -15,14 +15,21 @@
 
 <div id="about" align="left">
 <h3>
- <img src="https://media0.giphy.com/media/lGhBlBMIN2XsEteTN3/200w.webp?cid=ecf05e47w7dn190swhkfeeapl0mcjydx0objpihan28ay7zk&rid=200w.webp&ct=s" width="35"> About Me:
+ <img src="https://media0.giphy.com/media/lGhBlBMIN2XsEteTN3/200w.webp?cid=ecf05e47w7dn190swhkfeeapl0mcjydx0objpihan28ay7zk&rid=200w.webp&ct=s" width="40"> About Me:
 </h3>
 <p align="left"> Hey there! I'm a Machine Learning engineer who's always on the lookout for the newest and coolest things happening in the AI field. My passion lies in exploring the depths of computer vision, but recently I've been super curious about the possibilities of natural language processing and the fascinating world of generative adversarial networks. In my free time, I enjoy taking part in Kaggle competitions cause it's a fantastic way to keep my skills sharp and learn by solving challenging problems. I'm excited to see how AI will continue to evolve and be a part of that journey!</p>
 </div>
     
+<div id="skills" align="left">
+<h3>
+ <img src="https://media.giphy.com/media/UrVeeVnu3PwlzBpuwu/giphy.gif" width="30"> Technical Skills:
+</h3>
+
+</div>
+    
 <div id="about" align="left">
 <h3>
- <img src="https://media3.giphy.com/media/kLNTfS8SoJ1z6IT9uC/200w.webp?cid=ecf05e47lpxv1nqbh8o6xpq6obr5lzzrhuhla2lg5q9898ku&rid=200w.webp&ct=s" width="35"> My Blog Posts:
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTAyNmJmN2RjNzNjZDBhMTMxOWZkNzI2OWNkMjIyOWJkNzBmOTEwNSZjdD1z/ntkzvo9fKbW07P9pez/giphy.gif" width="30"> My Blog Posts:
 </h3>
 
 <p align="left"> <a href="https://www.learnopencv.com/using-facial-landmarks-for-overlaying-faces-with-masks" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/35/35483.png" width="13"> Using Facial Landmarks for Overlaying Faces with Masks </a></p>
