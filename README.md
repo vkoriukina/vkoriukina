@@ -22,7 +22,7 @@
     
 <div id="skills" align="left">
 <h3>
- <img src="https://media.giphy.com/media/UrVeeVnu3PwlzBpuwu/giphy.gif" width="30"> Technical Skills:
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWViOWI0NGJkMTA3ZWZlZmNlMWJjZGRmYTg4NGZiODBmMzEwMWM0MSZjdD1z/88iJdoxlbnZCcmhLpR/giphy.gif" width="35"> Technical Skills:
 </h3>
 
 </div>
@@ -41,7 +41,8 @@
 <h3>
  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmU4N2M1NGEwYzNkMDIxZjQ2NGNjYWE3YmMzNjVlY2MwZmM3NzBmMSZjdD1z/2uvBXCfCJUzLDLM2vA/giphy.gif" width="35"> My Stats:
 <p float="left">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=vkoriukina&theme=nightowl" width="60%" align="center" />
+   
+  <img src="https://github-readme-stats.vercel.app/api?username=vkoriukina&theme=nightowl" width="55%" align="center" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkoriukina&theme=nightowl" width="35%" align="center" />
 </p>
 </h3>
@@ -52,3 +53,5 @@
 <div id="snake" align="center">
   <img src="https://github.com/vkoriukina/vkoriukina/blob/output/github-contribution-grid-snake.svg"/>
 </div>
+    
+
