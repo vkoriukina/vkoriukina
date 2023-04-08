@@ -57,7 +57,13 @@
 <div id="stats_imgs" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vkoriukina&theme=nightowl" width="58%" align="center" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkoriukina&theme=nightowl" width="36.5%" align="center" />
-</div>  
+</div>
+<hr>
+<p align="center"> <b>Note:</b> My github repos are not updated to the current state, since during my last job I mostly commited to private GitLab repos. So, it makes an impression that I'm mostly programming in C++ which is not true. I'm mostly a pythonist for the last 5+ years now <img src="https://em-content.zobj.net/thumbs/120/samsung/349/snake_1f40d.png" width="20"> 
+</p>
+
+   
+   
     
 <div id="snake" align="center">
   <img src="https://github.com/vkoriukina/vkoriukina/blob/output/github-contribution-grid-snake.svg" width=100% />
