@@ -66,12 +66,10 @@
 </div>
 <br>
 <ul>
-<p align="left"> <b>Note:</b> My github repos are not updated to the current state, since during my last job I mostly commited to private GitLab repos. So, it makes an impression that I'm mostly programming in C++ which is not true. I'm mostly a pythonist for the last 5+ years <img src="https://em-content.zobj.net/thumbs/120/htc/37/snake_1f40d.png" width="23"> 
+<p align="left"> <b>Note:</b> My github repos are not updated to the current state, since during my last job I mostly commited to private GitLab repos. So, it makes an impression that I'm programming in C++ which is not true. I'm mostly a pythonist for the last 5+ years <img src="https://em-content.zobj.net/thumbs/120/htc/37/snake_1f40d.png" width="20"> 
 </p>
 </ul>
-
-   
-   
+ 
     
 <div id="snake" align="center">
   <img src="https://github.com/vkoriukina/vkoriukina/blob/output/github-contribution-grid-snake.svg" width=100% />
