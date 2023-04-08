@@ -17,7 +17,9 @@
 <h3>
  <img src="https://media0.giphy.com/media/lGhBlBMIN2XsEteTN3/200w.webp?cid=ecf05e47w7dn190swhkfeeapl0mcjydx0objpihan28ay7zk&rid=200w.webp&ct=s" width="40"> About Me:
 </h3>
-<p align="left"> Hey there! I'm a Machine Learning engineer who's always on the lookout for the newest and coolest things happening in the AI field. My passion lies in exploring the depths of computer vision, but recently I've been super curious about the possibilities of natural language processing and the fascinating world of generative adversarial networks. In my free time, I enjoy taking part in Kaggle competitions cause it's a fantastic way to keep my skills sharp and learn by solving challenging problems. I'm excited to see how AI will continue to evolve and be a part of that journey!</p>
+<ul>
+<p> Hey there! I'm a Machine Learning engineer who's always on the lookout for the newest and coolest things happening in the AI field. My passion lies in exploring the depths of computer vision, but recently I've been super curious about the possibilities of natural language processing and the fascinating world of generative adversarial networks. In my free time, I enjoy taking part in Kaggle competitions cause it's a fantastic way to keep my skills sharp and learn by solving challenging problems. I'm excited to see how AI will continue to evolve and be a part of that journey!</p>
+</ul>
 </div>
     
     
@@ -25,17 +27,20 @@
 <h3>
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTAyNmJmN2RjNzNjZDBhMTMxOWZkNzI2OWNkMjIyOWJkNzBmOTEwNSZjdD1z/ntkzvo9fKbW07P9pez/giphy.gif" width="30"> My Blog Posts:
 </h3>
-
+<ul>
 <p align="left"> <a href="https://www.learnopencv.com/using-facial-landmarks-for-overlaying-faces-with-masks" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/35/35483.png" width="13"> Using Facial Landmarks for Overlaying Faces with Masks </a></p>
 <p align="left"> <a href="https://learnopencv.com/getting-started-opencv-cuda-module" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/35/35483.png" width="13"> Getting Started with OpenCV CUDA Module </a></p>
-<p align="left"> <a href="https://learnopencv.com/opencv-dnn-with-gpu-support" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/35/35483.png" width="13"> How to use OpenCV DNN Module with NVIDIA GPUs on Linux </a></p>
+<p align="left"> <a href="https://learnopencv.com/opencv-dnn-with-gpu-support" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/35/35483.png" width="13"> How to use OpenCV DNN Module with NVIDIA GPUs on Linux </a>
+</p>
+</ul>
 </div>
     
  
- <div id="skills" align="left">
+<div id="skills" align="left">
 <h3>
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWViOWI0NGJkMTA3ZWZlZmNlMWJjZGRmYTg4NGZiODBmMzEwMWM0MSZjdD1z/88iJdoxlbnZCcmhLpR/giphy.gif" width="35"> My Technical Skills:
 </h3>
+<ul>   
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="55" height="55"/>
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
@@ -45,7 +50,8 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
 <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
 </p>
-
+</ul>
+</div>
 
 
 <div id="stats" align="left">
@@ -59,8 +65,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkoriukina&theme=nightowl" width="36.5%" align="center" />
 </div>
 <br>
-<p align="center"> <b>Note:</b> My github repos are not updated to the current state, since during my last job I mostly commited to private GitLab repos. So, it makes an impression that I'm mostly programming in C++ which is not true. I'm mostly a pythonist for the last 5+ years <img src="https://em-content.zobj.net/thumbs/120/htc/37/snake_1f40d.png" width="23"> 
+<ul>
+<p align="left"> <b>Note:</b> My github repos are not updated to the current state, since during my last job I mostly commited to private GitLab repos. So, it makes an impression that I'm mostly programming in C++ which is not true. I'm mostly a pythonist for the last 5+ years <img src="https://em-content.zobj.net/thumbs/120/htc/37/snake_1f40d.png" width="23"> 
 </p>
+</ul>
 
    
    
