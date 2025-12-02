@@ -18,7 +18,7 @@
  <img src="https://media0.giphy.com/media/lGhBlBMIN2XsEteTN3/200w.webp?cid=ecf05e47w7dn190swhkfeeapl0mcjydx0objpihan28ay7zk&rid=200w.webp&ct=s" width="40"> About Me:
 </h3>
 <ul>
-<p> Hey there! I'm a Machine Learning engineer who's always on the lookout for the newest and coolest things happening in the AI field. My passion lies in exploring the depths of computer vision, but recently I've been super curious about the possibilities of natural language processing and the fascinating world of generative adversarial networks. In my free time, I enjoy taking part in Kaggle competitions cause it's a fantastic way to keep my skills sharp and learn by solving challenging problems. I'm excited to see how AI will continue to evolve and be a part of that journey!</p>
+<p> Hey there! I'm a Machine Learning engineer who's always on the lookout for the newest and coolest things happening in the AI field. My passion lies in exploring the depths of computer vision, but recently I've been super curious about the possibilities of generative architectures such as diffusion models for image generation. In my free time, I enjoy taking part in Kaggle competitions cause it's a fantastic way to keep my skills sharp and learn by solving challenging problems. I'm excited to see how AI will continue to evolve and be a part of that journey!</p>
 </ul>
 </div>
     
@@ -52,27 +52,3 @@
 </p>
 </ul>
 </div>
-
-
-<div id="stats" align="left">
-<h3>
- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmU4N2M1NGEwYzNkMDIxZjQ2NGNjYWE3YmMzNjVlY2MwZmM3NzBmMSZjdD1z/2uvBXCfCJUzLDLM2vA/giphy.gif" width="35"> My Stats:
-</h3>
-</div>
-   
-<div id="stats_imgs" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vkoriukina&theme=nightowl" width="58%" align="center" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkoriukina&theme=nightowl" width="36.5%" align="center" />
-</div>
-<br>
-<ul>
-<p align="left"> <b>Note:</b> My github repos are not updated to the current state, since during my last job I mostly commited to private GitLab repos. So, it makes an impression that I'm programming in C++ which is not true. I'm mostly a pythonist for the last 5+ years <img src="https://em-content.zobj.net/thumbs/120/htc/37/snake_1f40d.png" width="20"> 
-</p>
-</ul>
- 
-    
-<div id="snake" align="center">
-  <img src="https://github.com/vkoriukina/vkoriukina/blob/output/github-contribution-grid-snake.svg" width=100% />
-</div>
-    
-
