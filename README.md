@@ -21,7 +21,16 @@
 <p> Hey there! I'm a Machine Learning engineer who's always on the lookout for the newest and coolest things happening in the AI field. My passion lies in exploring the depths of computer vision, but recently I've been super curious about the possibilities of generative architectures such as diffusion models for image generation. In my free time, I enjoy taking part in Kaggle competitions cause it's a fantastic way to keep my skills sharp and learn by solving challenging problems. I'm excited to see how AI will continue to evolve and be a part of that journey!</p>
 </ul>
 </div>
-    
+
+<div id="papers" align="left">
+<h3>
+ <img src="https://media1.tenor.com/m/qmmZhnx0F0MAAAAC/gato-calculando-sonfys-gato-calculando.gif" width="30"> My Papers:
+</h3>
+<ul>
+<p align="left"> <a href="https://arxiv.org/abs/2503.19793" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/35/35483.png" width="13"> In the Blink of an Eye: Instant Game Map Editing using a Generative-AI Smart Brush </a></p>
+</p>
+</ul>
+</div>
     
 <div id="blog_posts" align="left">
 <h3>
@@ -40,15 +49,16 @@
 <h3>
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWViOWI0NGJkMTA3ZWZlZmNlMWJjZGRmYTg4NGZiODBmMzEwMWM0MSZjdD1z/88iJdoxlbnZCcmhLpR/giphy.gif" width="35"> My Technical Skills:
 </h3>
-<ul>   
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="55" height="55"/>
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="53" height="60"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="55" height="55"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="55" height="55"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-<img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
-</p>
-</ul>
+<table>
+  <tr>
+    <td><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="55" height="55"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/960px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="55" height="60"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="55" height="55"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="55" height="55"/></td>
+    <td><img src="https://cdn.brandfetch.io/idekbPXKcZ/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="clearml" width="55" height="55"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/></td>
+  </tr>
+</table>
 </div>
